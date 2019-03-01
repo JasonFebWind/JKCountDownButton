@@ -27,7 +27,7 @@ To initiate the button: <br>
 * `-(BOOL)loadingIsInProgress` : query for button loading status. True if it is in loading mode.
 
 ## Callback (Delegate)
-A delegate method will be called as a callback when counting progress completes. `-(void)countDownButtonDidCompleteCounting`<br>
+A delegate method will be called as a callback when counting progress completes.<br> `-(void)countDownButtonDidCompleteCounting`<br>
 
 ```Object c
 import JKCountDownButton.h
