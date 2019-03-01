@@ -28,3 +28,5 @@ To initiate the button: <br>
 
 ## Callback (Delegate)
 A delegate method will be called as a callback when counting progress completes.<br> `-(void)countDownButtonDidCompleteCounting`<br>
+
+
